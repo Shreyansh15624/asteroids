@@ -1,6 +1,6 @@
 # Asteroids
 
-A classic implementation of the arcade game **Asteroids**, built using Python and Pygame. Navigate your ship through an asteroid field, shoot them down to survive, and avoid collisions!
+A classic implementation of the arcade game **Asteroids**, built using Python and Pygame. Navigate your ship through an asteroid field, shoot them down to survive, and avoid collisions! And all of this was made under the direction of the Boot.dev's Guided Project Course for understadning OOPS, Game Loop, User Input, Game Object, Game Mechanics & Their Interactions.
 
 ## 🎮 Features
 
